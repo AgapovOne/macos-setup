@@ -20,4 +20,4 @@ iTerm
 
 fish
 - inspiration [awsm.fish](https://github.com/jorgebucaran/awsm.fish.git)
-- [.config/fish](./.config/fish) contents
+- [.config/fish](https://github.com/AgapovOne/macos-setup/tree/main/fish) contents
