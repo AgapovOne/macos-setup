@@ -18,6 +18,8 @@
 
 ## Xcode
 
+[Downloader](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers)
+
 plugins:
 - [xcsort](https://apps.apple.com/ru/app/xcsort/id1153337296?l=en&mt=12)
 - [Multiliner + <kbd>Shift+CMD+X</kbd>](https://github.com/aheze/Multiliner)
