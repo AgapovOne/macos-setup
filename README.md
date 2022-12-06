@@ -5,6 +5,17 @@
 - [birman](https://ilyabirman.ru/typography-layout/)
 - ~~[universal (try again later or convert бхю placements)](https://github.com/tonsky/Universal-Layout)~~
 
+## Software
+
+- Paste
+- Reveal
+- Visual Studio Code
+- Raycast
+- 1Password
+- Shiftit
+- Telegram
+- Slack
+
 ## Xcode
 
 plugins:
