@@ -21,10 +21,39 @@
 [Downloader](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers)
 
 🔌 plugins:
-- [xcsort](https://apps.apple.com/ru/app/xcsort/id1153337296?l=en&mt=12) + <kbd>Shift+CMD+6</kbd>
-- [Multiliner](https://github.com/aheze/Multiliner) + <kbd>Shift+CMD+X</kbd>
 
-🧮 theme: 
+#### Sort imports or anything else
+[xcsort](https://apps.apple.com/ru/app/xcsort/id1153337296?l=en&mt=12) + <kbd>Shift+CMD+6</kbd>
+
+#### Convert one line to multiline
+~~[Multiliner](https://github.com/aheze/Multiliner) + <kbd>Shift+CMD+X</kbd>~~
+
+[xcode-multi-line-func](https://github.com/angeria/xcode-multi-line-func) + <kbd>Shift+CMD+X</kbd>
+
+<details><summary>Почему xcode-multi-line-func лучше чем Multiliner</summary>
+
+```swift
+// input 
+CGRect(origin: .zero, size: CGSize(width: flagIconSize, height: flagIconSize))
+
+// Multiliner result
+CGRect(
+  origin: .zero,
+  size: CGSize(width: flagIconSize, // why?
+  height: flagIconSize)
+)
+
+// xcode-multi-line-func result
+CGRect(
+  origin: .zero,
+  size: CGSize(width: flagIconSize, height: flagIconSize) // what I wanted!
+)
+```
+
+</details>
+
+
+#### 🧮 theme: 
 - [Charmed](https://github.com/CypherPoet/charmed-dark-xcode-theme)
 
 ## 💻 Terminal
