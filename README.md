@@ -62,3 +62,6 @@ iTerm
 🐟 fish
 - inspiration [awsm.fish](https://github.com/jorgebucaran/awsm.fish.git)
 - [.config/fish](https://github.com/AgapovOne/macos-setup/tree/main/fish) contents
+
+- [bat - cat alternative](https://github.com/sharkdp/bat)
+- [tldr - man alternative](https://tldr.sh)
