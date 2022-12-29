@@ -2,8 +2,7 @@
 
 ## ⌨️ Keyboard
 
-- [birman](https://ilyabirman.ru/typography-layout/)
-- ~~[universal (try again later or convert бхю placements)](https://github.com/tonsky/Universal-Layout)~~
+- ~~birman~~ [agp layout](keyboard-agp.bundle)
 
 ## 🖥️ Software
 
