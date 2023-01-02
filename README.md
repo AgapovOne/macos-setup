@@ -65,5 +65,6 @@ iTerm
 
 - [bat - cat alternative](https://github.com/sharkdp/bat)
 - [tldr - man alternative](https://tldr.sh)
+- [zoxide - z jump](https://github.com/ajeetdsouza/zoxide)
 
 inspiration: [habr article](https://habr.com/ru/company/redmadrobot/blog/538446/)
