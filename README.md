@@ -6,7 +6,7 @@
 
 ## 🖥️ Software
 
-- Paste
+- Paste (or https://github.com/p0deje/Maccy if free)
 - Reveal
 - Visual Studio Code
 - Raycast
