@@ -14,6 +14,7 @@
 - Shiftit
 - Telegram
 - Slack
+- [tldraw](tldraw.com) for drawring
 
 ## 🔨 Xcode
 
@@ -66,5 +67,11 @@ iTerm
 - [bat - cat alternative](https://github.com/sharkdp/bat)
 - [tldr - man alternative](https://tldr.sh)
 - [zoxide - z jump](https://github.com/ajeetdsouza/zoxide)
+
+should try:
+- curl -> [httpie](https://github.com/httpie/httpie)?
+- cat -> [bat](https://github.com/sharkdp/bat)?
+- diff -> [delta](https://github.com/dandavison/delta)
+- [jq](https://github.com/jqlang/jq)
 
 inspiration: [habr article](https://habr.com/ru/company/redmadrobot/blog/538446/)
