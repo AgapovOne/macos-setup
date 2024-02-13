@@ -6,15 +6,20 @@
 
 ## 🖥️ Software
 
-- Paste (or https://github.com/p0deje/Maccy if free)
+- Raycast for best spotlight magic with plugins
+- Raycast with hotkeys for clipboard management
+  - Used Paste before
+  - (or https://github.com/p0deje/Maccy if you need free)
+  - PastePal?
+- Raycast for window movement
+  - used Shiftit before
 - Reveal
 - Visual Studio Code
-- Raycast
 - 1Password
-- Shiftit
 - Telegram
 - Slack
 - [tldraw](tldraw.com) for drawring
+  - or FigJam
 
 ## 🔨 Xcode
 
