@@ -6,14 +6,20 @@
 
 ## 🖥️ Software
 
-- Paste
+- Raycast for best spotlight magic with plugins
+- Raycast with hotkeys for clipboard management
+  - Used Paste before
+  - (or https://github.com/p0deje/Maccy if you need free)
+  - PastePal?
+- Raycast for window movement
+  - used Shiftit before
 - Reveal
 - Visual Studio Code
-- Raycast
 - 1Password
-- Shiftit
 - Telegram
 - Slack
+- [tldraw](tldraw.com) for drawring
+  - or FigJam
 
 ## 🔨 Xcode
 
@@ -65,5 +71,12 @@ iTerm
 
 - [bat - cat alternative](https://github.com/sharkdp/bat)
 - [tldr - man alternative](https://tldr.sh)
+- [zoxide - z jump](https://github.com/ajeetdsouza/zoxide)
+
+should try:
+- curl -> [httpie](https://github.com/httpie/httpie)?
+- cat -> [bat](https://github.com/sharkdp/bat)?
+- diff -> [delta](https://github.com/dandavison/delta)
+- [jq](https://github.com/jqlang/jq)
 
 inspiration: [habr article](https://habr.com/ru/company/redmadrobot/blog/538446/)
