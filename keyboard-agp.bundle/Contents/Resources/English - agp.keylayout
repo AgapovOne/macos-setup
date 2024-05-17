@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 359 on 2022-12-29 at 20:32 (GMT+5)-->
+<!--Last edited by Ukelele version 396 on 2024-05-17 at 12:38 (GMT+5)-->
 <!--Created by Ukelele version 1.8 on 2008-10-24 at 13:25 (YEKST)-->
 <keyboard group="0" id="151" name="English - agp" maxout="3">
     <layouts>
@@ -395,7 +395,7 @@
             <key code="9" output="↓"/>
             <key code="10" output="`"/>
             <key code="11" output="ß"/>
-            <key code="12" output=""/>
+            <key code="12" output="~"/>
             <key code="13" output="✓"/>
             <key code="14" output="€"/>
             <key code="15" output="®"/>
@@ -1464,7 +1464,7 @@
             <when state="circumflex" output="ĉ"/>
         </action>
         <action id="cedilla">
-            <when state="none" next="cedilla"/>
+            <when state="none" output="~"/>
             <when state="cedilla" output="̧"/>
         </action>
         <action id="d">
@@ -1578,7 +1578,7 @@
         <when state="acute-2" output="´"/>
         <when state="breve" output="˘"/>
         <when state="caron" output="ˇ"/>
-        <when state="cedilla" output="¸"/>
+        <when state="cedilla" output="~"/>
         <when state="circumflex" output="ˆ"/>
         <when state="diaeresis" output="¨"/>
         <when state="double-acute" output="˝"/>
