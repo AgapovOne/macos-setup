@@ -68,10 +68,10 @@ CGRect(
 ~~iTerm~~
 [kitty](https://sw.kovidgoyal.net/kitty/quickstart/)
 
-### 🐟 fish
+### ~~🐟 fish~~
+### zsh!
 
-- inspiration [awsm.fish](https://github.com/jorgebucaran/awsm.fish.git)
-- [.config/fish](https://github.com/AgapovOne/macos-setup/tree/main/fish) contents
+current [.zshrc](https://github.com/AgapovOne/dotfiles/blob/main/dot_zshrc)
 
 - [bat - cat alternative](https://github.com/sharkdp/bat)
 - [tldr - man alternative](https://tldr.sh)
