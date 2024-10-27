@@ -31,7 +31,9 @@ Raycast for window movement. `cmd+option+ctrl+arrows` to move windows around
 ~~used Shiftit before~~
 
 [Reveal](https://revealapp.com/) - proper UI debug for iOS with live edit and accessibility inspection
-- ~~Visual Studio Code~~ neovim
+
+Misc Software:
+
 - 1Password
 - Telegram
 - Slack
@@ -40,7 +42,7 @@ Raycast for window movement. `cmd+option+ctrl+arrows` to move windows around
 
 ## 🔨 Xcode
 
-[Downloader](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers)
+[Xcodes app](https://www.xcodes.app/) to manage Xcode versions. Uses aria2 to make download 4+ times faster
 
 🔌 plugins:
 
@@ -82,8 +84,14 @@ Xcode theme is [Charmed](https://github.com/CypherPoet/charmed-dark-xcode-theme)
 
 [dotfiles repo with config](https://github.com/AgapovOne/dotfiles)
 
-~~iTerm~~
 [kitty](https://sw.kovidgoyal.net/kitty/quickstart/)
+
+<details><summary>alternatives</summary>
+
+- iterm2 is slow
+- waiting for ghostty
+
+</details>
 
 zsh!
 
