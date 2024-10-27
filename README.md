@@ -2,18 +2,35 @@
 
 ## ⌨️ Keyboard
 
-- ~~birman~~ [agp layout](keyboard-agp.bundle)
+~~[birman](https://ilyabirman.net/typography-layout/)~~ - keyboard layout for useful characters on `option` layer
+
+[agp layout](keyboard-agp.bundle) - my additions to birman layout.
+
+<details><summary>What I changed</summary>
+
+My keyboard has no F1-F12 keys, so I had to add `~` (tilde) and `` ` `` (backtick) symbols myself.
+
+Also I changed `№` symbol to `#` for md headers in russian layout
+
+</details>
 
 ## 🖥️ Software
 
-- Raycast for best spotlight magic with plugins
-- Raycast with hotkeys for clipboard management
-  - Used Paste before
-  - (or https://github.com/p0deje/Maccy if you need free)
-  - PastePal?
-- Raycast for window movement
-  - used Shiftit before
-- Reveal
+**[Raycast](https://www.raycast.com/hey/08c2e9c0)** - GOAT for spotlight magic with plugins
+
+Raycast with hotkeys for clipboard management
+
+<details><summary>Alternatives considered</summary>
+  - ~~used [Paste](https://pasteapp.io/) before~~
+  - ~~(or https://github.com/p0deje/Maccy if you need free)~~
+  - ~~PastePal?~~
+</details>
+
+Raycast for window movement. `cmd+option+ctrl+arrows` to move windows around
+
+~~used Shiftit before~~
+
+[Reveal](https://revealapp.com/) - proper UI debug for iOS with live edit and accessibility inspection
 - ~~Visual Studio Code~~ neovim
 - 1Password
 - Telegram
@@ -28,9 +45,11 @@
 🔌 plugins:
 
 #### Sort imports or anything else
+
 [xcsort](https://apps.apple.com/ru/app/xcsort/id1153337296?l=en&mt=12) + <kbd>Shift+CMD+6</kbd>
 
 #### Convert one line to multiline
+
 ~~[Multiliner](https://github.com/aheze/Multiliner) + <kbd>Shift+CMD+X</kbd>~~
 
 [xcode-multi-line-func](https://github.com/angeria/xcode-multi-line-func) + <kbd>Shift+CMD+X</kbd>
@@ -38,7 +57,7 @@
 <details><summary>Почему xcode-multi-line-func лучше чем Multiliner</summary>
 
 ```swift
-// input 
+// input
 CGRect(origin: .zero, size: CGSize(width: flagIconSize, height: flagIconSize))
 
 // Multiliner result
@@ -57,9 +76,7 @@ CGRect(
 
 </details>
 
-
-#### 🧮 theme: 
-- [Charmed](https://github.com/CypherPoet/charmed-dark-xcode-theme)
+Xcode theme is [Charmed](https://github.com/CypherPoet/charmed-dark-xcode-theme)
 
 ## 💻 Terminal
 
@@ -68,8 +85,15 @@ CGRect(
 ~~iTerm~~
 [kitty](https://sw.kovidgoyal.net/kitty/quickstart/)
 
-### ~~🐟 fish~~
-### zsh!
+zsh!
+
+<details><summary>Why zsh?</summary>
+
+used 🐟 fish before, but sharing functions and workflow with colleagues is easier with zsh
+
+fish still better for interactions.
+
+</details>
 
 current [.zshrc](https://github.com/AgapovOne/dotfiles/blob/main/dot_zshrc)
 
@@ -83,12 +107,24 @@ current [.zshrc](https://github.com/AgapovOne/dotfiles/blob/main/dot_zshrc)
 - curl -> [httpie](https://github.com/httpie/httpie)?
 - cat -> [bat](https://github.com/sharkdp/bat)?
 - diff -> [delta](https://github.com/dandavison/delta)
-- [jq](https://github.com/jqlang/jq)
+- [jq](https://github.com/jqlang/jq) -> [fx](https://github.com/antonmedv/fx)
 
 inspiration: [habr article](https://habr.com/ru/company/redmadrobot/blog/538446/)
 
 </details>
 
-### 💻 neovim!
+## 💻 Code Editor
 
-[current config](https://github.com/AgapovOne/lazyvim) is modified [lazyvim](https://www.lazyvim.org/)
+<details><summary>History. Why not neovim or vscode?</summary>
+
+VS Code
+
+// TODO: Story about Ruby env, bloated plugin system.
+
+Previously used neovim and liked it.
+
+// TODO: Story about Python env & ugly Markdown plugins
+
+[config](https://github.com/AgapovOne/lazyvim) was a modified version of [lazyvim](https://www.lazyvim.org/)
+
+</details>
