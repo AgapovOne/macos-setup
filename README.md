@@ -123,6 +123,12 @@ inspiration: [habr article](https://habr.com/ru/company/redmadrobot/blog/538446/
 
 ## 💻 Code Editor
 
+[Zed editor](https://zed.dev)!
+
+AI + speed + minimalism
+
+vim plugins!
+
 <details><summary>History. Why not neovim or vscode?</summary>
 
 VS Code
