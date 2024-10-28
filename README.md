@@ -28,7 +28,12 @@ Raycast with hotkeys for clipboard management
 
 Raycast for window movement. `cmd+option+ctrl+arrows` to move windows around
 
-~~used Shiftit before~~
+<details><summary>alternatives</summary>
+
+[Shiftit](https://github.com/fikovnik/ShiftIt) - used before Raycast
+[Rectangle](https://rectangleapp.com/) - never used
+
+</details>
 
 [Reveal](https://revealapp.com/) - proper UI debug for iOS with live edit and accessibility inspection
 
