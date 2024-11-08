@@ -113,6 +113,7 @@ current [.zshrc](https://github.com/AgapovOne/dotfiles/blob/main/dot_zshrc)
 - [bat - cat alternative](https://github.com/sharkdp/bat)
 - [tldr - man alternative](https://tldr.sh)
 - [zoxide - z jump](https://github.com/ajeetdsouza/zoxide)
+- [vhs](https://github.com/charmbracelet/vhs)(beautiful) or [asciinema](https://github.com/asciinema/asciinema)(lightweight) for gif recording
 
 <details>
 <summary>should try myself</summary>
