@@ -21,17 +21,18 @@ Also I changed `№` symbol to `#` for md headers in russian layout
 Raycast with hotkeys for clipboard management
 
 <details><summary>Alternatives considered</summary>
-  - ~~used [Paste](https://pasteapp.io/) before~~
-  - ~~(or https://github.com/p0deje/Maccy if you need free)~~
-  - ~~PastePal?~~
+  
+- ~~used [Paste](https://pasteapp.io/) before~~
+- ~~(or https://github.com/p0deje/Maccy if you need free)~~
+- ~~PastePal?~~
 </details>
 
 Raycast for window movement. `cmd+option+ctrl+arrows` to move windows around
 
 <details><summary>alternatives</summary>
 
-[Shiftit](https://github.com/fikovnik/ShiftIt) - used before Raycast
-[Rectangle](https://rectangleapp.com/) - never used
+- [Shiftit](https://github.com/fikovnik/ShiftIt) - used before Raycast
+- [Rectangle](https://rectangleapp.com/) - never used
 
 </details>
 
