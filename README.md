@@ -14,6 +14,14 @@ Also I changed `№` symbol to `#` for md headers in russian layout
 
 </details>
 
+```
+# Set a very short delay until repeat (normal minimum is 15)
+defaults write NSGlobalDomain InitialKeyRepeat -int 10
+
+# Set a very fast repeat rate (normal minimum is 2)
+defaults write NSGlobalDomain KeyRepeat -int 1
+```
+
 ## 🖥️ Software
 
 **[Raycast](https://www.raycast.com/hey/08c2e9c0)** - GOAT for spotlight magic with plugins
