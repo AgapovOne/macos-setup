@@ -136,6 +136,29 @@ inspiration: [habr article](https://habr.com/ru/company/redmadrobot/blog/538446/
 
 </details>
 
+### Git
+
+[lazygit](https://github.com/jesseduffield/lazygit)!
+or Fork
+or GitUp
+
+[Difftastic](https://difftastic.wilfred.me.uk/) for tree-sitter diff
+
+<details>
+<summary>Configuration for difftastic</summary>
+
+```
+# ~/.gitconfig
+[diff]
+    external = difft
+# lazygit
+git:
+  paging:
+    externalDiffCommand: difft --color=always
+```
+
+</details>
+
 ## 💻 Code Editor
 
 [Zed editor](https://zed.dev)!
